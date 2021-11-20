@@ -1,4 +1,4 @@
 # Git tutorial
 
-- feature-A
+- feature-A --test features
 
